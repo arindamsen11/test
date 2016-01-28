@@ -38,7 +38,7 @@
 							<mainClass>mainCode.MainClass</mainClass>
 							<classpathScope>test</classpathScope>
 							<addClasspath>true</addClasspath>
-							<!-- <cleanupDaemonThreads>false</cleanupDaemonThreads> -->
+							<cleanupDaemonThreads>false</cleanupDaemonThreads>
 						</configuration>
 						<!-- <noExit>true</noExit> -->
 						<!-- <continueOnFailure>true</continueOnFailure> -->
