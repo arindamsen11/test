@@ -1,0 +1,76 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 25,
+        "name": "Simulator",
+        "description": "",
+        "id": "ios-poc;simulator",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 181530156580,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Launch Url and Sign in",
+            "match": {
+              "location": "Test3_New.launch_Url_and_Sign_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6930186959,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Select Flight Details and Continue",
+            "match": {
+              "location": "Test3_New.select_Flight_Details_and_Continue()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 68451637231,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "Select Flights and Continue",
+            "match": {
+              "location": "Test3_New.select_Flights_and_Continue()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 34474933698,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Fill passenger details and book flight",
+            "match": {
+              "location": "Test3_New.fill_passenger_details_and_book_flight()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 24,
+            "name": "@Test3"
+          }
+        ]
+      }
+    ],
+    "name": "Ios_Poc",
+    "description": "",
+    "id": "ios-poc",
+    "keyword": "Feature",
+    "uri": "Ios_Poc.feature"
+  }
+]
