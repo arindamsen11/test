@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="88.673732">
+<testcase classname="Ios_Poc" name="Simulator" time="88.673732">
+<system-out><![CDATA[Given Launch Url and Sign in................................................passed
+Then Select Flight Details and Continue.....................................passed
+Then Select Flights and Continue............................................passed
+Then Fill passenger details and book flight.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
