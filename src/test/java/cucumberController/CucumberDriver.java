@@ -15,7 +15,8 @@ import cucumber.api.junit.Cucumber;
 			plugin = {
 								"pretty",
 								"html:target/cucmber",
-								"junit:target_junit/cucumber.xml"
+								"junit:target_junit/cucumber.xml",
+								"json:C:/Users/arindams621/.jenkins/workspace/JENKINS_CUCUMBER_INTEGRATION/cucumber.json"
 								}
 		)
 
