@@ -17,7 +17,7 @@ import cucumber.api.junit.Cucumber;
 								"html:target/cucmber",
 								"junit:target_junit/cucumber.xml",
 								//"json:src/test/resources/Jenkins/cucumber.json"
-								"json:target_junit/cucumber.json"
+/								"json:target_junit/cucumber.json"
 								//"json:/testproject/src/test/resources/Jenkins/cucumber.json"
 								}
 		)
